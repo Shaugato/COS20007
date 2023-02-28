@@ -1,0 +1,2 @@
+The IdentifiableObject is a kind of Console game that I create in The COS20007 course. It can interact with user. 
+The player can carry items , armor , weapons. It can drop items , weapons and armor by giving comands . It can also move to different places by giving commands.
