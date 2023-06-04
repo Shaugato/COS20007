@@ -1,0 +1,28 @@
+C:\Users\Shaugato\source\repos\Mamun OOP Code\oop zip all\2.3\ShapeDrawer_2022\ShapeDrawer_2022\bin\Debug\net5.0\ShapeDrawer_2022.exe
+C:\Users\Shaugato\source\repos\Mamun OOP Code\oop zip all\2.3\ShapeDrawer_2022\ShapeDrawer_2022\bin\Debug\net5.0\ShapeDrawer_2022.deps.json
+C:\Users\Shaugato\source\repos\Mamun OOP Code\oop zip all\2.3\ShapeDrawer_2022\ShapeDrawer_2022\bin\Debug\net5.0\ShapeDrawer_2022.runtimeconfig.json
+C:\Users\Shaugato\source\repos\Mamun OOP Code\oop zip all\2.3\ShapeDrawer_2022\ShapeDrawer_2022\bin\Debug\net5.0\ShapeDrawer_2022.runtimeconfig.dev.json
+C:\Users\Shaugato\source\repos\Mamun OOP Code\oop zip all\2.3\ShapeDrawer_2022\ShapeDrawer_2022\bin\Debug\net5.0\ShapeDrawer_2022.dll
+C:\Users\Shaugato\source\repos\Mamun OOP Code\oop zip all\2.3\ShapeDrawer_2022\ShapeDrawer_2022\bin\Debug\net5.0\ShapeDrawer_2022.pdb
+C:\Users\Shaugato\source\repos\Mamun OOP Code\oop zip all\2.3\ShapeDrawer_2022\ShapeDrawer_2022\bin\Debug\net5.0\Spalshkit.dll
+C:\Users\Shaugato\source\repos\Mamun OOP Code\oop zip all\2.3\ShapeDrawer_2022\ShapeDrawer_2022\bin\Debug\net5.0\Spalshkit.pdb
+C:\Users\Shaugato\source\repos\Mamun OOP Code\oop zip all\2.3\ShapeDrawer_2022\ShapeDrawer_2022\obj\Debug\net5.0\ShapeDrawer_2022.csproj.AssemblyReference.cache
+C:\Users\Shaugato\source\repos\Mamun OOP Code\oop zip all\2.3\ShapeDrawer_2022\ShapeDrawer_2022\obj\Debug\net5.0\ShapeDrawer_2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaugato\source\repos\Mamun OOP Code\oop zip all\2.3\ShapeDrawer_2022\ShapeDrawer_2022\obj\Debug\net5.0\ShapeDrawer_2022.AssemblyInfoInputs.cache
+C:\Users\Shaugato\source\repos\Mamun OOP Code\oop zip all\2.3\ShapeDrawer_2022\ShapeDrawer_2022\obj\Debug\net5.0\ShapeDrawer_2022.AssemblyInfo.cs
+C:\Users\Shaugato\source\repos\Mamun OOP Code\oop zip all\2.3\ShapeDrawer_2022\ShapeDrawer_2022\obj\Debug\net5.0\ShapeDrawer_2022.csproj.CoreCompileInputs.cache
+C:\Users\Shaugato\source\repos\Mamun OOP Code\oop zip all\2.3\ShapeDrawer_2022\ShapeDrawer_2022\obj\Debug\net5.0\ShapeDrawer_2022.csproj.CopyComplete
+C:\Users\Shaugato\source\repos\Mamun OOP Code\oop zip all\2.3\ShapeDrawer_2022\ShapeDrawer_2022\obj\Debug\net5.0\ShapeDrawer_2022.dll
+C:\Users\Shaugato\source\repos\Mamun OOP Code\oop zip all\2.3\ShapeDrawer_2022\ShapeDrawer_2022\obj\Debug\net5.0\refint\ShapeDrawer_2022.dll
+C:\Users\Shaugato\source\repos\Mamun OOP Code\oop zip all\2.3\ShapeDrawer_2022\ShapeDrawer_2022\obj\Debug\net5.0\ShapeDrawer_2022.pdb
+C:\Users\Shaugato\source\repos\Mamun OOP Code\oop zip all\2.3\ShapeDrawer_2022\ShapeDrawer_2022\obj\Debug\net5.0\ShapeDrawer_2022.genruntimeconfig.cache
+C:\Users\Shaugato\source\repos\Mamun OOP Code\oop zip all\2.3\ShapeDrawer_2022\ShapeDrawer_2022\obj\Debug\net5.0\ref\ShapeDrawer_2022.dll
+C:\Users\Shaugato\source\repos\Saad_OOp_Code\2.2_Pass_task\ShapeDrawer_2022\ShapeDrawer_2022\obj\Debug\net5.0\ShapeDrawer_2022.csproj.AssemblyReference.cache
+C:\Users\Shaugato\source\repos\Saad_OOp_Code\2.2_Pass_task\ShapeDrawer_2022\ShapeDrawer_2022\obj\Debug\net5.0\ShapeDrawer_2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaugato\source\repos\Saad_OOp_Code\2.2_Pass_task\ShapeDrawer_2022\ShapeDrawer_2022\obj\Debug\net5.0\ShapeDrawer_2022.AssemblyInfoInputs.cache
+C:\Users\Shaugato\source\repos\Saad_OOp_Code\2.2_Pass_task\ShapeDrawer_2022\ShapeDrawer_2022\obj\Debug\net5.0\ShapeDrawer_2022.AssemblyInfo.cs
+C:\Users\Shaugato\source\repos\Saad_OOp_Code\2.2_Pass_task\ShapeDrawer_2022\ShapeDrawer_2022\obj\Debug\net5.0\ShapeDrawer_2022.csproj.CoreCompileInputs.cache
+C:\Users\Shaugato\source\repos\Saad_OOp_Code\2.2_Pass_task\ShapeDrawer_2022\ShapeDrawer_2022\obj\Debug\net5.0\ShapeDrawer_2022.dll
+C:\Users\Shaugato\source\repos\Saad_OOp_Code\2.2_Pass_task\ShapeDrawer_2022\ShapeDrawer_2022\obj\Debug\net5.0\ref\ShapeDrawer_2022.dll
+C:\Users\Shaugato\source\repos\Saad_OOp_Code\2.2_Pass_task\ShapeDrawer_2022\ShapeDrawer_2022\obj\Debug\net5.0\ShapeDrawer_2022.pdb
+C:\Users\Shaugato\source\repos\Saad_OOp_Code\2.2_Pass_task\ShapeDrawer_2022\ShapeDrawer_2022\obj\Debug\net5.0\refint\ShapeDrawer_2022.dll
