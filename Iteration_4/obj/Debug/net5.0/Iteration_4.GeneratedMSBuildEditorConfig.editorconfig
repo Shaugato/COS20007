@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Iteration_4
+build_property.ProjectDir = C:\Users\Shaugato\source\repos\Saad_OOp_Code\6.1_Pass_Task\Iteration_3&4\Iteration_4\Iteration_4\
