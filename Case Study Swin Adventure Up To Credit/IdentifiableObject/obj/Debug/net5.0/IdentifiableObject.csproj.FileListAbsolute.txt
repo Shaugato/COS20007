@@ -1,0 +1,128 @@
+C:\Users\Shaugato\source\repos\IdentifiableObject\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.exe
+C:\Users\Shaugato\source\repos\IdentifiableObject\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.deps.json
+C:\Users\Shaugato\source\repos\IdentifiableObject\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.runtimeconfig.json
+C:\Users\Shaugato\source\repos\IdentifiableObject\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.runtimeconfig.dev.json
+C:\Users\Shaugato\source\repos\IdentifiableObject\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\IdentifiableObject\IdentifiableObject\bin\Debug\net5.0\ref\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\IdentifiableObject\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.pdb
+C:\Users\Shaugato\source\repos\IdentifiableObject\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.csproj.AssemblyReference.cache
+C:\Users\Shaugato\source\repos\IdentifiableObject\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaugato\source\repos\IdentifiableObject\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.AssemblyInfoInputs.cache
+C:\Users\Shaugato\source\repos\IdentifiableObject\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.AssemblyInfo.cs
+C:\Users\Shaugato\source\repos\IdentifiableObject\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.csproj.CoreCompileInputs.cache
+C:\Users\Shaugato\source\repos\IdentifiableObject\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\IdentifiableObject\IdentifiableObject\obj\Debug\net5.0\ref\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\IdentifiableObject\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.pdb
+C:\Users\Shaugato\source\repos\IdentifiableObject\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.genruntimeconfig.cache
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.csproj.AssemblyReference.cache
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.AssemblyInfoInputs.cache
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.AssemblyInfo.cs
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.csproj.CoreCompileInputs.cache
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy\IdentifiableObject\obj\Debug\net5.0\ref\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.pdb
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.exe
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.deps.json
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.runtimeconfig.json
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.runtimeconfig.dev.json
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy\IdentifiableObject\bin\Debug\net5.0\ref\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.pdb
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.genruntimeconfig.cache
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.exe
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.deps.json
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.runtimeconfig.json
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.runtimeconfig.dev.json
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy\IdentifiableObject\bin\Debug\net5.0\ref\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.pdb
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.csproj.AssemblyReference.cache
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.AssemblyInfoInputs.cache
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.AssemblyInfo.cs
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.csproj.CoreCompileInputs.cache
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy\IdentifiableObject\obj\Debug\net5.0\ref\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.pdb
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.genruntimeconfig.cache
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy - Copy\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.exe
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy - Copy\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.deps.json
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy - Copy\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.runtimeconfig.json
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy - Copy\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.runtimeconfig.dev.json
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy - Copy\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy - Copy\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.pdb
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.csproj.AssemblyReference.cache
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.AssemblyInfoInputs.cache
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.AssemblyInfo.cs
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.csproj.CoreCompileInputs.cache
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy - Copy\IdentifiableObject\obj\Debug\net5.0\ref\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.pdb
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.genruntimeconfig.cache
+C:\Users\Shaugato\source\repos\IdentifiableObject - Copy - Copy - Copy\IdentifiableObject\obj\Debug\net5.0\refint\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\Literation-7\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.exe
+C:\Users\Shaugato\source\repos\Literation-7\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.deps.json
+C:\Users\Shaugato\source\repos\Literation-7\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.runtimeconfig.json
+C:\Users\Shaugato\source\repos\Literation-7\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.runtimeconfig.dev.json
+C:\Users\Shaugato\source\repos\Literation-7\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\Literation-7\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.pdb
+C:\Users\Shaugato\source\repos\Literation-7\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.csproj.AssemblyReference.cache
+C:\Users\Shaugato\source\repos\Literation-7\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaugato\source\repos\Literation-7\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.AssemblyInfoInputs.cache
+C:\Users\Shaugato\source\repos\Literation-7\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.AssemblyInfo.cs
+C:\Users\Shaugato\source\repos\Literation-7\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.csproj.CoreCompileInputs.cache
+C:\Users\Shaugato\source\repos\Literation-7\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\Literation-7\IdentifiableObject\obj\Debug\net5.0\refint\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\Literation-7\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.pdb
+C:\Users\Shaugato\source\repos\Literation-7\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.genruntimeconfig.cache
+C:\Users\Shaugato\source\repos\Literation-7\IdentifiableObject\obj\Debug\net5.0\ref\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\Literation-7 - Copy\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.exe
+C:\Users\Shaugato\source\repos\Literation-7 - Copy\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.deps.json
+C:\Users\Shaugato\source\repos\Literation-7 - Copy\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.runtimeconfig.json
+C:\Users\Shaugato\source\repos\Literation-7 - Copy\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.runtimeconfig.dev.json
+C:\Users\Shaugato\source\repos\Literation-7 - Copy\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\Literation-7 - Copy\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.pdb
+C:\Users\Shaugato\source\repos\Literation-7 - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.csproj.AssemblyReference.cache
+C:\Users\Shaugato\source\repos\Literation-7 - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaugato\source\repos\Literation-7 - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.AssemblyInfoInputs.cache
+C:\Users\Shaugato\source\repos\Literation-7 - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.AssemblyInfo.cs
+C:\Users\Shaugato\source\repos\Literation-7 - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.csproj.CoreCompileInputs.cache
+C:\Users\Shaugato\source\repos\Literation-7 - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\Literation-7 - Copy\IdentifiableObject\obj\Debug\net5.0\refint\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\Literation-7 - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.pdb
+C:\Users\Shaugato\source\repos\Literation-7 - Copy\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.genruntimeconfig.cache
+C:\Users\Shaugato\source\repos\Literation-7 - Copy\IdentifiableObject\obj\Debug\net5.0\ref\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.exe
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.deps.json
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.runtimeconfig.json
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.runtimeconfig.dev.json
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.pdb
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.csproj.AssemblyReference.cache
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.AssemblyInfoInputs.cache
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.AssemblyInfo.cs
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.csproj.CoreCompileInputs.cache
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableObject\obj\Debug\net5.0\ref\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.pdb
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.genruntimeconfig.cache
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableObject\obj\Debug\net5.0\refint\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.exe
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.deps.json
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.runtimeconfig.json
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.runtimeconfig.dev.json
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableObject\bin\Debug\net5.0\IdentifiableObject.pdb
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.csproj.AssemblyReference.cache
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.AssemblyInfoInputs.cache
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.AssemblyInfo.cs
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.csproj.CoreCompileInputs.cache
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableObject\obj\Debug\net5.0\refint\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.pdb
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableObject\obj\Debug\net5.0\IdentifiableObject.genruntimeconfig.cache
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableObject\obj\Debug\net5.0\ref\IdentifiableObject.dll
