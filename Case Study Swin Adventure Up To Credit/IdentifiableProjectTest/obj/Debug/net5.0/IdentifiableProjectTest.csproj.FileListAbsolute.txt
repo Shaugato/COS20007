@@ -1,0 +1,214 @@
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\testhost.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\IdentifiableObject.deps.json
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\IdentifiableObject.runtimeconfig.json
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\IdentifiableObject.runtimeconfig.dev.json
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\IdentifiableObject.exe
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\testhost.exe
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\testcentric.engine.metadata.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\IdentifiableProjectTest.deps.json
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\IdentifiableProjectTest.runtimeconfig.json
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\IdentifiableProjectTest.runtimeconfig.dev.json
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\IdentifiableProjectTest.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\IdentifiableProjectTest.pdb
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\bin\Debug\net5.0\IdentifiableObject.pdb
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\obj\Debug\net5.0\IdentifiableProjectTest.csproj.AssemblyReference.cache
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\obj\Debug\net5.0\IdentifiableProjectTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\obj\Debug\net5.0\IdentifiableProjectTest.AssemblyInfoInputs.cache
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\obj\Debug\net5.0\IdentifiableProjectTest.AssemblyInfo.cs
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\obj\Debug\net5.0\IdentifiableProjectTest.csproj.CoreCompileInputs.cache
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\obj\Debug\net5.0\IdentifiableProjectTest.csproj.CopyComplete
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\obj\Debug\net5.0\IdentifiableProjectTest.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\obj\Debug\net5.0\refint\IdentifiableProjectTest.dll
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\obj\Debug\net5.0\IdentifiableProjectTest.pdb
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\obj\Debug\net5.0\IdentifiableProjectTest.genruntimeconfig.cache
+C:\Users\Shaugato\source\repos\Literation-8\IdentifiableProjectTest\obj\Debug\net5.0\ref\IdentifiableProjectTest.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\testhost.exe
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\testhost.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\testcentric.engine.metadata.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\IdentifiableObject.deps.json
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\IdentifiableObject.runtimeconfig.json
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\IdentifiableObject.runtimeconfig.dev.json
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\IdentifiableObject.exe
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\IdentifiableProjectTest.deps.json
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\IdentifiableProjectTest.runtimeconfig.json
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\IdentifiableProjectTest.runtimeconfig.dev.json
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\IdentifiableProjectTest.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\IdentifiableProjectTest.pdb
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\IdentifiableObject.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\bin\Debug\net5.0\IdentifiableObject.pdb
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\obj\Debug\net5.0\IdentifiableProjectTest.csproj.AssemblyReference.cache
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\obj\Debug\net5.0\IdentifiableProjectTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\obj\Debug\net5.0\IdentifiableProjectTest.AssemblyInfoInputs.cache
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\obj\Debug\net5.0\IdentifiableProjectTest.AssemblyInfo.cs
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\obj\Debug\net5.0\IdentifiableProjectTest.csproj.CoreCompileInputs.cache
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\obj\Debug\net5.0\IdentifiableProjectTest.csproj.CopyComplete
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\obj\Debug\net5.0\IdentifiableProjectTest.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\obj\Debug\net5.0\refint\IdentifiableProjectTest.dll
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\obj\Debug\net5.0\IdentifiableProjectTest.pdb
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\obj\Debug\net5.0\IdentifiableProjectTest.genruntimeconfig.cache
+C:\Users\Shaugato\source\repos\Case Study Swin Adventure Up To Credit\IdentifiableProjectTest\obj\Debug\net5.0\ref\IdentifiableProjectTest.dll
